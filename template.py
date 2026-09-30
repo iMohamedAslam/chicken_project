@@ -21,8 +21,9 @@ list_of_file = [
     "params.yaml",
     "requirements.txt",
     "setpu.py",
-    "research/trials.ipynb", 
-    "test.py"
+    "research/trials.ipynb",
+    "templates/index.html"
+   
 ]
 
 
