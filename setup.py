@@ -4,6 +4,7 @@ setup(
     name='chicken',
     version='0.0.0',
     author='Bappy',
-    packages=find_packages(),
+    package_dir={"": "src"},
+    packages=find_packages(where="src"),
     install_requires=[]
 )
